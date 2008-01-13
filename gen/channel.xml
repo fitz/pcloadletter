@@ -18,7 +18,7 @@
     <lastBuildDate>DATE</lastBuildDate>
     <pubDate>DATE</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <webMaster>pcloadletter@red-bean.com</webMaster>
+    <webMaster>pcloadletter@red-bean.com (Ben and Fitz)</webMaster>
     <ttl>60</ttl>
 
     <itunes:author>Ben Collins-Sussman and Brian Fitzpatrick</itunes:author>
@@ -42,7 +42,7 @@
     <itunes:image href="http://pcloadletter.googlecode.com/files/pcloadletter-itunes-logo-1.jpg"/>
     
     <itunes:category text="Technology">
-      <itunes:category text="Education"/>
+      <itunes:category text="Software How-To"/>
       <itunes:category text="Tech News"/>
     </itunes:category>
 
