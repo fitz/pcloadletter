@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  <channel>
+
+    <title>PC LOAD LETTER: Two Guys, One Mic</title>
+
+    <description>Ben Collins and and Brian Fitzpatrick answer your
+      questions about open source software development, collaborative
+      software development tools, and the problems that inevitably
+      arise when you try to write software with other
+      people.</description>
+
+    <link>http://code.google.com/p/pcloadletter/</link>
+    <language>en-us</language>
+    <copyright>Copyright 2008</copyright>
+    <lastBuildDate>DATE</lastBuildDate>
+    <pubDate>DATE</pubDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <webMaster>pcloadletter@red-bean.com</webMaster>
+    <ttl>60</ttl>
+
+    <itunes:author>Ben Collins-Sussman and Brian Fitzpatrick</itunes:author>
+
+    <itunes:subtitle>Ben and Fitz answer your questions about open
+      source software development</itunes:subtitle>
+
+    <itunes:summary>Ben Collins and and Brian Fitzpatrick answer your
+      questions about open source software development, collaborative
+      software development tools, and the problems that inevitably
+      arise when you try to write software with other
+      people.</itunes:summary>
+
+    <itunes:owner>
+           <itunes:name>Ben and Fitz</itunes:name>
+           <itunes:email>pcloadletter@red-bean.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:explicit>No</itunes:explicit>
+
+    <itunes:image href="http://pcloadletter.googlecode.com/files/pcloadletter-itunes-logo-1.jpg"/>
+    
+    <itunes:category text="Technology">
+      <itunes:category text="Education"/>
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+
+ITEMS
+
+  </channel>
+
+</rss>

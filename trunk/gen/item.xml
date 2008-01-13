@@ -1,0 +1,19 @@
+    <item>
+    <title>TITLE</title>
+    <link>WIKI_PAGE</link>
+    <guid>MP3</guid>
+    <description>SHOW_DESC</description>
+    <enclosure url="MP3" length="LEN" type="audio/mpeg"/>
+    <category>Technology</category>
+    <category>Tech News</category>
+    <category>Education</category>
+    <pubDate>DATE</pubDate>
+
+    <itunes:author>Ben Collins-Sussman and Brian Fitzpatrick</itunes:author>
+
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:subtitle>SHOW_DESC</itunes:subtitle>
+    <itunes:summary>SHOW_DESC</itunes:summary>
+    <itunes:duration>DURATION</itunes:duration>
+    <itunes:keywords>technology, open source, free software, poisonous people, conflict</itunes:keywords>
+    </item>
