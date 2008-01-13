@@ -1,0 +1,17 @@
+#summary PC Load Letter Episode One
+
+= Episode One =
+
+Listen [http://pcloadlettergooglecode.com/files/episode01.mp3 here].
+
+Welcome to the first episode of the podcast, featuring:
+
+  * Introduction to the podcast
+  * Story:  Annoying woman on airplane
+  * Stories: How we got started in open source
+  * Story: The beginnings of the Subversion project
+  * Explanation and call for questions
+
+== So Now What? ==
+
+You can comment below or ask a question for our next episode in the [http://code.google.com/p/pcloadletter/issues/entry issue tracker].
