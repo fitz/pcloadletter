@@ -1,5 +1,3 @@
-#summary PC Load Letter Episode One
-
 = Episode One =
 
 Listen [http://pcloadlettergooglecode.com/files/episode01.mp3 here].
