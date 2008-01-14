@@ -5,8 +5,7 @@ Listen [http://pcloadlettergooglecode.com/files/episode01.mp3 here].
 Welcome to the first episode of the podcast, featuring:
 
   * Introduction to the podcast
-  * Story:  Annoying woman on airplane
-  * Stories: How we got started in open source
+  * Story: Annoying woman on airplane
   * Story: The beginnings of the Subversion project
   * Explanation and call for questions
 
