@@ -5,9 +5,9 @@
 ######################################################
 EPISODE:1
 MP3:http://pcloadlettergooglecode.com/files/episode01.mp3
-WIKI_PAGE:http://code.google.com/p/pcloadletter/wiki/EpisodeOne
-SHOW_DESC: Who we are, annoying airplane people, how we got started in Subversion, and the beginnings of the Subversion project
-LEN:12024931
-DURATION:14:23
+WIKI_PAGE:http://code.google.com/p/pcloadletter/wiki/Episode01
+SHOW_DESC: Who we are, annoying airplane people, how we got started in Subversion, the beginnings of the Subversion project, what this podcast is about, and a call for questions.
+LEN:18123794
+DURATION:12:35
 TITLE:PC LOAD LETTER Episode 1: The Early Days
 END:1
