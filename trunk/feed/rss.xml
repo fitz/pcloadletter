@@ -6,31 +6,22 @@
 
     <title>PC LOAD LETTER: Two Guys, One Mic</title>
 
-    <description>Ben Collins-Sussman and and Brian Fitzpatrick answer your
-      questions about open source software development, collaborative
-      software development tools, and the problems that inevitably
-      arise when you try to write software with other
-      people.</description>
+    <description>Ben Collins-Sussman and and Brian Fitzpatrick answer your questions about open source software development, collaborative software development tools, and the problems that inevitably arise when you try to write software with other people.</description>
 
     <link>http://code.google.com/p/pcloadletter/</link>
     <language>en-us</language>
     <copyright>Copyright 2008</copyright>
-    <lastBuildDate>Mon, 14 Jan 2008 20:47:28 -0800</lastBuildDate>
-    <pubDate>Mon, 14 Jan 2008 20:47:28 -0800</pubDate>
+    <lastBuildDate>Mon, 14 Jan 2008 20:51:56 -0800</lastBuildDate>
+    <pubDate>Mon, 14 Jan 2008 20:51:56 -0800</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>pcloadletter@red-bean.com (Ben and Fitz)</webMaster>
     <ttl>60</ttl>
 
     <itunes:author>Ben Collins-Sussman and Brian Fitzpatrick</itunes:author>
 
-    <itunes:subtitle>Ben and Fitz answer your questions about open
-      source software development</itunes:subtitle>
+    <itunes:subtitle>Ben and Fitz answer your questions about open source software development</itunes:subtitle>
 
-    <itunes:summary>Ben Collins-Sussman and and Brian Fitzpatrick answer your
-      questions about open source software development, collaborative
-      software development tools, and the problems that inevitably
-      arise when you try to write software with other
-      people.</itunes:summary>
+    <itunes:summary>Ben Collins-Sussman and and Brian Fitzpatrick answer your questions about open source software development, collaborative software development tools, and the problems that inevitably arise when you try to write software with other people.</itunes:summary>
 
     <itunes:owner>
            <itunes:name>Ben and Fitz</itunes:name>
