@@ -15,8 +15,8 @@
     <link>http://code.google.com/p/pcloadletter/</link>
     <language>en-us</language>
     <copyright>Copyright 2008</copyright>
-    <lastBuildDate>Mon, 14 Jan 2008 10:34:11 -0600</lastBuildDate>
-    <pubDate>Mon, 14 Jan 2008 10:34:11 -0600</pubDate>
+    <lastBuildDate>Mon, 14 Jan 2008 20:47:28 -0800</lastBuildDate>
+    <pubDate>Mon, 14 Jan 2008 20:47:28 -0800</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>pcloadletter@red-bean.com (Ben and Fitz)</webMaster>
     <ttl>60</ttl>
@@ -39,7 +39,7 @@
 
     <itunes:explicit>No</itunes:explicit>
 
-    <itunes:image href="http://pcloadletter.googlecode.com/files/pcloadletter-itunes-logo-1.jpg"/>
+    <itunes:image href="http://pcloadletter.googlecode.com/svn/trunk/images/pcloadletter-itunes-logo.jpg"/>
     
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
@@ -49,9 +49,9 @@
     <item>
     <title>PC LOAD LETTER Episode 1: The Early Days</title>
     <link>http://code.google.com/p/pcloadletter/wiki/Episode01</link>
-    <guid>http://pcloadletter.googlecode.com/files/episode01.mp3</guid>
+    <guid>http://pcloadletter.googlecode.com/files/PCLoadLetter-01.mp3</guid>
     <description>Who we are, annoying airplane people, how we got started in Subversion, the beginnings of the Subversion project, what this podcast is about, and a call for questions.</description>
-    <enclosure url="http://pcloadletter.googlecode.com/files/episode01.mp3" length="18123794" type="audio/mpeg"/>
+    <enclosure url="http://pcloadletter.googlecode.com/files/PCLoadLetter-01.mp3" length="18123794" type="audio/mpeg"/>
     <category>Technology</category>
     <category>Tech News</category>
     <category>Education</category>

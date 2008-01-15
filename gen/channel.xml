@@ -39,7 +39,7 @@
 
     <itunes:explicit>No</itunes:explicit>
 
-    <itunes:image href="http://pcloadletter.googlecode.com/files/pcloadletter-itunes-logo-1.jpg"/>
+    <itunes:image href="http://pcloadletter.googlecode.com/svn/trunk/images/pcloadletter-itunes-logo.jpg"/>
     
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
