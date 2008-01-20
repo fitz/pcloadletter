@@ -1,7 +1,7 @@
 #labels Featured
 = Episode One =
 
-Listen [http://pcloadlettergooglecode.com/files/episode01.mp3 here].
+Listen [http://pcloadletter.googlecode.com/files/PCLoadLetter-01.mp3 here].
 
 Welcome to the first episode of the podcast, featuring:
 
