@@ -11,8 +11,8 @@
     <link>http://code.google.com/p/pcloadletter/</link>
     <language>en-us</language>
     <copyright>Copyright 2008</copyright>
-    <lastBuildDate>Mon, 14 Jan 2008 20:51:56 -0800</lastBuildDate>
-    <pubDate>Mon, 14 Jan 2008 20:51:56 -0800</pubDate>
+    <lastBuildDate>Sun, 10 Feb 2008 21:34:51 -0600</lastBuildDate>
+    <pubDate>Sun, 10 Feb 2008 21:34:51 -0600</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>pcloadletter@red-bean.com (Ben and Fitz)</webMaster>
     <ttl>60</ttl>
@@ -37,6 +37,26 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
 
+    <item>
+    <title>PC LOAD LETTER Episode 2: The History of Subversion and How It Became Mainstream</title>
+    <link>http://code.google.com/p/pcloadletter/wiki/Episode02</link>
+    <guid>http://pcloadletter.googlecode.com/files/PCLoadLetter-02.mp3</guid>
+    <description>History of Subversion, getting to 1.0, the tipping point where Subversion became mainstream.  Also includes some anecdotes about CVS, BDB, and what took Subversion so long to reach 1.0.</description>
+    <enclosure url="http://pcloadletter.googlecode.com/files/PCLoadLetter-02.mp3" length="15884656" type="audio/mpeg"/>
+    <category>Technology</category>
+    <category>Tech News</category>
+    <category>Education</category>
+    <pubDate>Sun, 10 Feb 2008 21:34:51 -0600
+</pubDate>
+
+    <itunes:author>Ben Collins-Sussman and Brian Fitzpatrick</itunes:author>
+
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:subtitle>History of Subversion, getting to 1.0, the tipping point where Subversion became mainstream.  Also includes some anecdotes about CVS, BDB, and what took Subversion so long to reach 1.0.</itunes:subtitle>
+    <itunes:summary>History of Subversion, getting to 1.0, the tipping point where Subversion became mainstream.  Also includes some anecdotes about CVS, BDB, and what took Subversion so long to reach 1.0.</itunes:summary>
+    <itunes:duration>26:28</itunes:duration>
+    <itunes:keywords>technology, open source, free software, poisonous people, conflict</itunes:keywords>
+    </item>
     <item>
     <title>PC LOAD LETTER Episode 1: The Early Days</title>
     <link>http://code.google.com/p/pcloadletter/wiki/Episode01</link>

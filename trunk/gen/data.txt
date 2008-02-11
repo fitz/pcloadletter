@@ -3,6 +3,15 @@
 # File should be in descending order--newest post first
 #
 ######################################################
+EPISODE:2
+MP3:http://pcloadletter.googlecode.com/files/PCLoadLetter-02.mp3
+WIKI_PAGE:http://code.google.com/p/pcloadletter/wiki/Episode02
+SHOW_DESC: History of Subversion, getting to 1.0, the tipping point where Subversion became mainstream.  Also includes some anecdotes about CVS, BDB, and what took Subversion so long to reach 1.0.
+LEN:15884656
+DURATION:26:28
+TITLE:PC LOAD LETTER Episode 2: The History of Subversion and How It Became Mainstream
+END:2
+######################################################
 EPISODE:1
 MP3:http://pcloadletter.googlecode.com/files/PCLoadLetter-01.mp3
 WIKI_PAGE:http://code.google.com/p/pcloadletter/wiki/Episode01

@@ -69,7 +69,7 @@ def now():
 def gen_timestamps():
   # Append a timestamp for newest podcast
   ts = open('timestamps.txt', 'a')
-  ts.write(str(len(items) + 1) + ':' + now() + '\n')
+  ts.write(str(len(items)) + ':' + now() + '\n')
   ts.close()
 
   # Read in timestamps
