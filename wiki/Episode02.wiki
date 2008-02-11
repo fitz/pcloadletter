@@ -1,3 +1,4 @@
+#labels Featured
 = Episode Two =
 
 Listen [http://pcloadletter.googlecode.com/files/PCLoadLetter-02.mp3 here].
