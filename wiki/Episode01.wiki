@@ -1,4 +1,3 @@
-#labels Featured
 = Episode One =
 
 Listen [http://pcloadletter.googlecode.com/files/PCLoadLetter-01.mp3 here].
