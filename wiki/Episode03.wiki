@@ -1,0 +1,11 @@
+= Episode Three =
+
+Listen [http://pcloadletter.googlecode.com/files/PCLoadLetter-03.mp3 here].
+
+Welcome to the third episode of the podcast, where we answer Issue #4:
+
+   * Pros and cons of setting up formal organizations in the open source world
+
+== So Now What? ==
+
+You can comment below or ask a question for our next episode in the [http://code.google.com/p/pcloadletter/issues/entry issue tracker].
