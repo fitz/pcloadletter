@@ -3,6 +3,15 @@
 # File should be in descending order--newest post first
 #
 ######################################################
+EPISODE:3
+MP3:http://pcloadletter.googlecode.com/files/PCLoadLetter-03.mp3
+WIKI_PAGE:http://code.google.com/p/pcloadletter/wiki/Episode03
+SHOW_DESC: Pros and cons of setting up formal organizations in the open source world
+LEN:6469141
+DURATION:10:46
+TITLE:PC LOAD LETTER Episode 3: Formal Organizations in Open Source
+END:3
+######################################################
 EPISODE:2
 MP3:http://pcloadletter.googlecode.com/files/PCLoadLetter-02.mp3
 WIKI_PAGE:http://code.google.com/p/pcloadletter/wiki/Episode02
