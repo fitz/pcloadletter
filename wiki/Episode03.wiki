@@ -1,3 +1,4 @@
+#labels Featured
 = Episode Three =
 
 Listen [http://pcloadletter.googlecode.com/files/PCLoadLetter-03.mp3 here].
