@@ -2,7 +2,7 @@
 
 Listen [http://pcloadletter.googlecode.com/files/PCLoadLetter-04.mp3 here].
 
-Welcome to the third episode of the podcast, where we chat with Leslie Hawthorn, Geek Herder Extraordinaire and fearless leader of Google's Summer of Code project!
+Welcome to the fourth episode of the podcast, where we chat with Leslie Hawthorn, Geek Herder Extraordinaire and fearless leader of Google's Summer of Code project!
 
 == So Now What? ==
 
