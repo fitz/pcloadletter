@@ -3,6 +3,15 @@
 # File should be in descending order--newest post first
 #
 ######################################################
+EPISODE:5
+MP3:http://pcloadletter.googlecode.com/files/PCLoadLetter-05.mp3
+WIKI_PAGE:http://code.google.com/p/pcloadletter/wiki/Episode05
+SHOW_DESC: Discussion with Chris DiBona, Google's Open Source "spiritual leader"
+LEN:9916781
+DURATION:16:31
+TITLE:PC LOAD LETTER Episode 5: Needs that Open Source Hasn't Met
+END:5
+######################################################
 EPISODE:4
 MP3:http://pcloadletter.googlecode.com/files/PCLoadLetter-04.mp3
 WIKI_PAGE:http://code.google.com/p/pcloadletter/wiki/Episode04
