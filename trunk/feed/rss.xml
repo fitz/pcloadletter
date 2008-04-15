@@ -11,8 +11,8 @@
     <link>http://code.google.com/p/pcloadletter/</link>
     <language>en-us</language>
     <copyright>Copyright 2008</copyright>
-    <lastBuildDate>Sat, 15 Mar 2008 13:02:16 -0500</lastBuildDate>
-    <pubDate>Sat, 15 Mar 2008 13:02:16 -0500</pubDate>
+    <lastBuildDate>Mon, 14 Apr 2008 23:00:51 -0500</lastBuildDate>
+    <pubDate>Mon, 14 Apr 2008 23:00:51 -0500</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>pcloadletter@red-bean.com (Ben and Fitz)</webMaster>
     <ttl>60</ttl>
@@ -37,6 +37,26 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
 
+    <item>
+    <title>PC LOAD LETTER Episode 5: Needs that Open Source Hasn't Met</title>
+    <link>http://code.google.com/p/pcloadletter/wiki/Episode05</link>
+    <guid>http://pcloadletter.googlecode.com/files/PCLoadLetter-05.mp3</guid>
+    <description>Discussion with Chris DiBona, Google's Open Source "spiritual leader"</description>
+    <enclosure url="http://pcloadletter.googlecode.com/files/PCLoadLetter-05.mp3" length="9916781" type="audio/mpeg"/>
+    <category>Technology</category>
+    <category>Tech News</category>
+    <category>Education</category>
+    <pubDate>Mon, 14 Apr 2008 23:00:51 -0500
+</pubDate>
+
+    <itunes:author>Ben Collins-Sussman and Brian Fitzpatrick</itunes:author>
+
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:subtitle>Discussion with Chris DiBona, Google's Open Source "spiritual leader"</itunes:subtitle>
+    <itunes:summary>Discussion with Chris DiBona, Google's Open Source "spiritual leader"</itunes:summary>
+    <itunes:duration>16:31</itunes:duration>
+    <itunes:keywords>technology, open source, free software, poisonous people, conflict</itunes:keywords>
+    </item>
     <item>
     <title>PC LOAD LETTER Episode 4: Google's Summer of Code</title>
     <link>http://code.google.com/p/pcloadletter/wiki/Episode04</link>
